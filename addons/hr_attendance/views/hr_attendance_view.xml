@@ -65,6 +65,7 @@
             <form string="Employee attendances">
                 <sheet>
                     <group>
+                        <separator string="Employé"/>
                         <group colspan="2">
                             <group col="1">
                                 <field name="employee_id" widget="many2one_avatar_user"/>
